@@ -1,0 +1,9 @@
+services:
+  flask:
+    build: .
+    image: hiring_evaluation_fastapi
+    container_name: hiring_evaluation_fastapi
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/app
