@@ -1,4 +1,4 @@
-# Hiring Evaluation Model using FastAPI with Web Interface
+# Hiring Evaluation Model using FastAPI
 
 ## Quick Start
 
